@@ -43,24 +43,6 @@ Aastha().say_hi()
 
 ---
 
-## 🚀 Featured Work
-
-<div align="center">
-
-<a href="https://github.com/aastha097/DeepCDR-Hybrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aastha097&repo=DeepCDR-Hybrid&title_color=00E5FF&text_color=c9d1d9&icon_color=7B2FF7&bg_color=0d1117&border_color=7B2FF7" />
-</a>
-
-<a href="https://github.com/aastha097/AI-SRE-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aastha097&repo=AI-SRE-agent&title_color=00E5FF&text_color=c9d1d9&icon_color=7B2FF7&bg_color=0d1117&border_color=7B2FF7" />
-</a>
-
-<a href="https://github.com/aastha097/document-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aastha097&repo=document-automation&title_color=00E5FF&text_color=c9d1d9&icon_color=7B2FF7&bg_color=0d1117&border_color=7B2FF7" />
-</a>
-
-</div>
-
 ### 🔬 How DeepCDR-Hybrid works
 
 ```mermaid
@@ -79,14 +61,6 @@ flowchart LR
 
 ---
 
-## 📊 By the Numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aastha097&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&icon_color=7B2FF7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aastha097&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" />
-
-</div>
 
 ---
 
