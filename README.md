@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="assets/cat.svg" width="200" alt="Cute animated cat" />
+<img src="cat.svg" width="200" alt="Cute animated cat" />
 
-<img src="assets/dna.svg" width="100%" alt="" />
+<img src="dna.svg" width="100%" alt="" />
 
 </div>
 
@@ -42,7 +42,7 @@ Aastha().say_hi()
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,numpy,pandas,sklearn,js,react,vite,nodejs,express,mongodb,vercel,git,github,vscode&perline=8" alt="Tech stack" />
 
-<img src="assets/dna.svg" width="100%" alt="" />
+<img src="dna.svg" width="100%" alt="" />
 
 </div>
 
@@ -86,7 +86,7 @@ flowchart LR
 
 *"The best way to predict the future is to build it."* 🧪
 
-<img src="assets/bunny.svg" width="100%" alt="Bunny hopping across the page" />
+<img src="bunny.svg" width="100%" alt="Bunny hopping across the page" />
 
 </div>
 
