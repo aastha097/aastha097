@@ -7,8 +7,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![NeetCode](https://img.shields.io/badge/NeetCode-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black)](https://github.com/aastha097/neetcode-submissions)
+[![Email](https://img.shields.io/badge/Email-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt23csa012@iiitn.ac.in)
+[![LeetCode](https://img.shields.io/badge/NeetCode-00E5FF?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aastha902/)
 
 <br/>
 
